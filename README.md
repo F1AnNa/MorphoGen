@@ -1,4 +1,4 @@
-# MorphGen
+# MorphoGen
 
 ## Overview
 Here we introduce the environment dependencies, datasets used, file description, and the code execution.
